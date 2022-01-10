@@ -1,5 +1,5 @@
 ---
-id: openlabs_mock
+id: openlabs_test1
 name: Openlabs Demo
 description: Easy to use immersive learning platform.
 keywords: openlabs, openlabs demo, demo, immersive, learning
@@ -17,10 +17,10 @@ type: lite
 categories:
     - Learning
 intro: README.md
-documentation: https://github.com/openlabs-explorer/demo/blob/main/README.md
+documentation: https://github.com/purva2412/catalog-test1/blob/main/README.md
 commands:
     - name: Clone Template
-      cmd: git clone https://github.com/openlabs-explorer/demo.git
+      cmd: git clone https://github.com/purva2412/catalog-test1.git
       cwd: /home/student/projects
       stepMessage: Cloning repository ....
 environment:
